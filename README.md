@@ -121,5 +121,6 @@ A platykurtic distribution shows a negative excess kurtosis. The kurtosis reveal
 ## Good Resources
 - https://youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW&si=Adi8gli990tpI9mL
 - https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults
+- https://arxiv.org/pdf/2401.05080
 
 ###### Disclosure: I'm not a licensed financial advisor nor do I have any financial licenses. This only reflects my experiences and understanding about investing. Take this with a grain of salt. I write this from the perspective that anyone can become their own financial advisor, as long as their willing. All words will be originally mine, but I'll link references accordingly.
