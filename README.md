@@ -98,6 +98,11 @@ Treynoy Ratio is also a measure for risk-adjusted return. Since the denominator 
 ### Treynor vs Sharpe Ratio
 The Sharpe ratio helps investors understand an investment's return compared to its risk while the Treynor ratio explores the excess return generated for each unit of risk in a portfolio.
 
+## [Calmar Ratio](https://www.investopedia.com/terms/c/calmarratio.asp)
+Calmar Ratio is function of the fund's average compounded annual rate of return versus its maximum drawdown.
+
+The higher the Calmar ratio, the better it performed on a risk-adjusted basis during the given time frame, which is mostly commonly set at 36 months.
+
 ## [Kurtosis](https://corporatefinanceinstitute.com/resources/data-science/kurtosis/#:~:text=What%20is%20Excess%20Kurtosis%3F,Excess%20Kurtosis%20%3D%20Kurtosis%20%E2%80%93%203)
 Kurtosis is a statistical measure that defines how heavily the tails of a distribution differ from the tails of a normal distribution. In other words, kurtosis identifies whether the tails of a given distribution contain extreme values.
 
